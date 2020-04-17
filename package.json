@@ -24,7 +24,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorRateApp.podspec"
+    "EliaharrisCapacitorRateApp.podspec"
   ],
   "keywords": [
     "capacitor",
