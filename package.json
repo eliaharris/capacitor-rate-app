@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-rate-app",
+  "name": "@eliaharris/capacitor-rate-app",
   "version": "0.0.1",
   "description": "Rate your app in stores",
   "main": "dist/esm/index.js",
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nodonisko/capacitor-rate-app"
+    "url": "https://github.com/eliaharris/capacitor-rate-app"
   },
   "bugs": {
-    "url": "https://github.com/Nodonisko/capacitor-rate-app/issues"
+    "url": "https://github.com/eliaharris/capacitor-rate-app/issues"
   }
 }
