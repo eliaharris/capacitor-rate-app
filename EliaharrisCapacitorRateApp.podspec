@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'CapacitorRateApp'
+    s.name = 'EliaharrisCapacitorRateApp'
     s.version = '0.0.1'
     s.summary = 'Rate your app in stores'
     s.license = 'MIT'
